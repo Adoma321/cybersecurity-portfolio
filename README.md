@@ -1,245 +1,161 @@
-🛡️ Ayman Abdullah | Cybersecurity Analyst & Security Engineer
+# 🛡️ Ayman Abdullah | Cybersecurity Analyst & Security Engineer
 
-Bridging the Gap Between Academic Knowledge and Enterprise-Grade Cyber
-Defense
+**Bridging the gap between academic knowledge and enterprise‑grade cyber defense**  
+*Cybersecurity is not about tools alone. It is about understanding systems deeply enough to defend them effectively.*
 
-Cybersecurity is not about tools alone. It is about understanding
-systems deeply enough to defend them effectively.
+---
 
-------------------------------------------------------------------------
+### Profile
 
-👨‍💻 Profile
+I am an **Information Security Researcher** and **Cybersecurity Student** at Karary University focused on mastering the technical foundations of cyber defense.
 
-I am an Information Security Researcher and Cybersecurity Student at
-Karary University focused on mastering the technical foundations of
-cyber defense.
+Since 2021 my work has focused on understanding the internal mechanics of systems, including:
 
-Since 2021, my work has focused on understanding the internal mechanics
-of systems including:
+- **Network protocols**  
+- **Operating system architecture**  
+- **Security monitoring and incident detection**
 
--   Network protocols
--   Operating system architecture
--   Security monitoring and incident detection
+**Objective:** Become a Security Analyst capable of detecting, analyzing, and responding to cyber threats in enterprise environments.
 
-My objective is to become a Security Analyst capable of detecting,
-analyzing, and responding to cyber threats in enterprise environments.
+**Podcast:** *Information Security: More Than Just a Degree* — bridging academic cybersecurity education and real‑world industry expectations.
 
-Beyond technical practice, I also produce educational cybersecurity
-discussions through my podcast:
+---
 
-Information Security: More Than Just a Degree
+### Security Philosophy
 
-The podcast helps bridge the gap between academic cybersecurity
-education and real-world industry expectations.
-
-------------------------------------------------------------------------
-
-🧠 Security Philosophy
-
-Deep System Understanding
+#### Deep System Understanding
 
 A defender cannot protect systems they do not understand.
 
-Key foundations I continuously study:
+**Key foundations I study continuously:**
 
--   TCP / UDP networking
--   DNS protocol behavior
--   Operating system kernel architecture
--   Authentication and identity systems
+- TCP / UDP networking  
+- DNS protocol behavior  
+- Operating system kernel architecture  
+- Authentication and identity systems
 
-Analytical Security Mindset
+#### Analytical Security Mindset
 
-Effective cybersecurity relies on careful analysis of telemetry and
-system behavior including:
+Effective cybersecurity relies on careful analysis of telemetry and system behavior:
 
--   Network packets
--   Authentication logs
--   Process activity
--   Endpoint telemetry
+- Network packets  
+- Authentication logs  
+- Process activity  
+- Endpoint telemetry
 
-Security incidents are often discovered through patterns hidden in logs
-and network metadata.
+Security incidents are often discovered through patterns hidden in logs and network metadata.
 
-Automation Driven Defense
+#### Automation Driven Defense
 
 Manual security processes do not scale.
 
-To improve defensive capabilities I build automation tools using:
+I build automation tools using:
 
--   Python
--   Bash
--   Linux command line utilities
+- Python  
+- Bash  
+- Linux command line utilities
 
-Automation allows analysts to:
+**Benefits of automation:** reduce human error; detect anomalies faster; process large volumes of log data.
 
--   Reduce human error
--   Detect anomalies faster
--   Process large volumes of log data
+---
 
-------------------------------------------------------------------------
+### Technical Skills
 
-🧰 Technical Skills
+**Security Monitoring & Detection**
 
-Security Monitoring & Detection
+Tools: Wireshark; Snort; Suricata; Splunk (SIEM); Wazuh; Microsoft Defender
 
-Tools:
+**Network Security**
 
--   Wireshark
--   Snort
--   Suricata
--   Splunk (SIEM)
--   Wazuh
--   Microsoft Defender
+- Network Segmentation; VLAN Architecture; Access Control Lists; Firewall Configuration; Routing Concepts
 
-Network Security
+**Offensive Security & Assessment**
 
--   Network Segmentation
--   VLAN Architecture
--   Access Control Lists (ACLs)
--   Firewall Configuration
--   Routing Concepts
+Tools: Nmap; Metasploit Framework; Burp Suite; Kali Linux  
+Techniques: Port scanning; Service enumeration; Vulnerability discovery; Web application testing
 
-Offensive Security & Assessment
+**Digital Forensics & Incident Response**
 
-Tools:
+Tools: Autopsy; Wireshark; Linux forensic utilities; Log timeline reconstruction
 
--   Nmap
--   Metasploit Framework
--   Burp Suite
--   Kali Linux
+**Security Automation**
 
-Techniques:
+- Python; Bash; Log parsing; Security auditing scripts
 
--   Port scanning
--   Service enumeration
--   Vulnerability discovery
--   Web application testing
+---
 
-Digital Forensics & Incident Response
+### Featured Security Projects
 
-Tools:
+Projects follow the **STAR** methodology (Situation, Task, Action, Result).
 
--   Autopsy
--   Wireshark
--   Linux forensic utilities
--   Log timeline reconstruction
+#### Personal Cyber Hygiene Audit Tool
 
-Security Automation
+- **Situation:** Non‑technical users lack a clear way to evaluate personal cybersecurity risk.  
+- **Task:** Develop a lightweight automation tool to audit personal security posture.  
+- **Action:** Built a Python engine to evaluate password strength, MFA usage, and privacy settings.  
+- **Result:** Generates a risk score and actionable recommendations.  
+**Repository:** `security-tools/personal-hygiene-audit`
 
--   Python
--   Bash
--   Log parsing
--   Security auditing scripts
+#### Secure Enterprise Network Architecture Lab
 
-------------------------------------------------------------------------
+- **Situation:** Flat corporate networks enable lateral movement.  
+- **Task:** Design and simulate a segmented enterprise network.  
+- **Action:** Implemented VLAN segmentation, ACLs, routing controls, and firewall monitoring in Cisco Packet Tracer.  
+- **Result:** Demonstrates reduced attack surface and improved internal security.  
+**Repository:** `network-projects/secure-enterprise-network`
 
-📂 Featured Security Projects
+#### Digital Forensics Investigation Lab
 
-Projects follow the STAR methodology (Situation, Task, Action, Result).
+- **Situation:** Forensic investigation needed to determine attack vectors.  
+- **Task:** Analyze compromised system images.  
+- **Action:** Used Autopsy and Wireshark for artifact extraction, network analysis, and timeline reconstruction.  
+- **Result:** Forensic reports identifying infection points and attacker behavior.  
+**Repository:** `forensics-labs/incident-investigation`
 
-Personal Cyber Hygiene Audit Tool
+---
 
-Situation: Many non technical users lack a clear way to evaluate their
-personal cybersecurity risk.
+### Community Contribution
 
-Task: Develop a lightweight automation tool that helps users audit their
-own security posture.
+**Podcast:** *Information Security: More Than Just a Degree*  
+**Topics:** Cybersecurity career paths; SOC operations; Security learning roadmaps; Industry expectations
 
-Action: Created a Python based engine capable of evaluating password
-strength, MFA usage, and privacy configurations.
+---
 
-Result: The tool generates a risk score and recommendations for
-improving security practices.
+### Certifications and Continuous Learning
 
-Repository: security-tools/personal-hygiene-audit
+**Professional education**
 
-------------------------------------------------------------------------
+- **Google Cybersecurity Professional Certificate**
+- **CompTIA network+ Certificate**
 
-Secure Enterprise Network Architecture Lab
+**Hands‑on platforms**
 
-Situation: Many corporate networks are designed as flat architectures
-which allow attackers to move laterally.
+- TryHackMe; Hack The Box; Linux Journey
 
-Task: Design and simulate a segmented enterprise network architecture.
+**Achievement:** Completed 100+ practical cybersecurity labs.
 
-Action: Built a network simulation using Cisco Packet Tracer
-implementing VLAN segmentation, ACLs, routing controls, and firewall
-monitoring.
+---
 
-Result: Demonstrates reduced attack surface and improved internal
-network security.
-
-Repository: network-projects/secure-enterprise-network
-
-------------------------------------------------------------------------
-
-Digital Forensics Investigation Lab
-
-Situation: Security incidents require forensic investigation to
-determine attack vectors.
-
-Task: Perform forensic investigation on compromised system images.
-
-Action: Used Autopsy and Wireshark for artifact extraction, network
-analysis, and timeline reconstruction.
-
-Result: Produced forensic reports identifying infection points and
-attacker behavior.
-
-Repository: forensics-labs/incident-investigation
-
-------------------------------------------------------------------------
-
-🎙 Community Contribution
-
-Podcast: Information Security: More Than Just a Degree
-
-Topics include:
-
--   Cybersecurity career paths
--   SOC operations
--   Security learning roadmaps
--   Industry expectations
-
-------------------------------------------------------------------------
-
-📚 Certifications & Continuous Learning
-
-Professional education:
-
--   Google Cybersecurity Professional Certificate
--   Microsoft Cybersecurity Analyst Professional Certificate
-
-Hands-on practice platforms:
-
--   TryHackMe
--   Hack The Box
--   Linux Journey
-
-Completed 100+ practical cybersecurity labs.
-
-------------------------------------------------------------------------
-
-📁 Repository Structure
+### Repository Structure
 
 cybersecurity-portfolio/
+├─ network-projects/
+├─ forensics-labs/
+├─ security-tools/
+├─ ctf-writeups/
+└─ README.md
 
-network-projects/ forensics-labs/ security-tools/ ctf-writeups/
-README.md
 
-------------------------------------------------------------------------
+---
 
-📬 Contact
+### Contact
 
-GitHub github.com/AymanAbdullah
+- **GitHub:** github.com/AymanAbdullah  
+- **LinkedIn:** linkedin.com/in/AymanAbdullah  
+- **Portfolio:** Ayman-Cyber.me
 
-LinkedIn linkedin.com/in/AymanAbdullah
+---
 
-Portfolio Website Ayman-Cyber.me
+### Ethical Statement
 
-------------------------------------------------------------------------
-
-⚖ Ethical Statement
-
-All demonstrations and experiments were performed in authorized lab
-environments for educational purposes only.
+All demonstrations and experiments were performed in authorized lab environments for educational purposes only.
