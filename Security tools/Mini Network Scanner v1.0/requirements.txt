@@ -1,0 +1,7 @@
+# Mini Network Scanner — Python dependencies
+# Install with:  pip install -r requirements.txt
+
+customtkinter>=5.2.2
+reportlab>=4.0.0
+scapy>=2.5.0
+pyinstaller>=6.0.0   # only needed for .exe build
